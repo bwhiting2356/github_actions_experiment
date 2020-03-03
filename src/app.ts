@@ -8,7 +8,7 @@ app.use(bodyParser.json());
 
 // register routes
 
-const a = (): number => {
+const a = () => {
     return 1;
 
 }
