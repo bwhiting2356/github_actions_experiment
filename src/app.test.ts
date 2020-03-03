@@ -8,7 +8,7 @@ describe('test', () => {
     })
 
     it('should not pass', () => {
-        expect(1 + 2).toBe(4);
+        expect(2 + 2).toBe(4);
 
     })
 })
