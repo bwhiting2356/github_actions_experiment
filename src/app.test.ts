@@ -6,4 +6,9 @@ describe('test', () => {
     it('should also pass', () => {
         expect(1 + 2).toBe(3);
     })
+
+    it('should not pass', () => {
+        expect(1 + 2).toBe(4);
+
+    })
 })
